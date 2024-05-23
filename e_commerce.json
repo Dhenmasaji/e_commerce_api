@@ -3,8 +3,7 @@
   "apis": [
     {
       "apiName": "Blibli",
-      "status": true "e-commerce Blibli adalah salah satu platform jual beli online terbesar di Indonesia. Dibuka komersial pada tahun 2012, Blibli menawarkan berbagai macam produk dari kategori fashion, elektronik, rumah tangga, hingga makanan dan minuman. Selain itu, Blibli juga menyediakan layanan pengiriman cepat dan terpercaya, serta berbagai promo dan diskon yang menarik untuk para pengguna. Selain itu, aplikasi Blibli juga mudah digunakan dan memiliki banyak fitur yang dapat membantu pengguna dalam melakukan transaksi. Blibli juga memiliki sistem otorisasi yang aman dan terpercaya, sehingga pengguna tidak perlu khawatir terkait keamanan data pribadi. Selain itu, Blibli juga memiliki banyak mitra dan supplier terpercaya, sehingga dapat menjamin kualitas dan keaslian dari produk yang dijual. Dengan semua kelebihannya, Blibli menjadi pilihan yang tepat untuk membeli produk online dengan mudah dan aman.",
-      "documentationUrl": "https://seller-api.blibli.com/home",
+      "status": true, 
       "developer": {
         "name": "Blibli.com Dev",
         "profileUrl": null
